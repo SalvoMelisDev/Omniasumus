@@ -1,7 +1,7 @@
-Omniasumus 🌌
+Omniasumus
 Piattaforma Full-Stack integrata per la gestione di contenuti spirituali, ricettari e mini-games in TypeScript. Il progetto implementa un'architettura moderna con separazione netta tra Backend (Spring Boot) e Frontend (Angular), garantendo sicurezza e scalabilità.
 
-🛠️ Stack Tecnologico
+Stack Tecnologico
 Backend
 Java & Spring Boot: Core dell'applicazione e gestione della logica di business.
 
@@ -18,7 +18,7 @@ TypeScript: Linguaggio principale per lo sviluppo dei mini-giochi e della logica
 
 CSS/SCSS: Styling personalizzato per un'esperienza utente fluida.
 
-🚀 Funzionalità Principali
+Funzionalità Principali
 Sezione Spirituale: Visualizzazione e gestione di testi dedicati, con permessi di modifica basati sul grado utente.
 
 Ricettario Dinamico: Modulo per inserire, modificare e visualizzare ricette (perfetto per chi ama cucinare, magari con l'air fryer!).
